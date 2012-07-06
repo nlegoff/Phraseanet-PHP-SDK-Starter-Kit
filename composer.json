@@ -1,0 +1,10 @@
+{
+    "require": {
+        "phraseanet/php-sdk": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "StarterKit": "src"
+        }
+    }
+}

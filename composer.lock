@@ -1,0 +1,39 @@
+{
+    "hash": "237292f8b15d8e363e5d172c029cfee6",
+    "packages": [
+        {
+            "package": "doctrine/common",
+            "version": "2.2.2"
+        },
+        {
+            "package": "guzzle/guzzle",
+            "version": "v2.7.2"
+        },
+        {
+            "package": "monolog/monolog",
+            "version": "1.1.0"
+        },
+        {
+            "package": "phraseanet/php-sdk",
+            "version": "dev-master",
+            "source-reference": "db20dbe244fc992fc5c2998e5adde45257a5401c",
+            "commit-date": "1341422448"
+        },
+        {
+            "package": "symfony/event-dispatcher",
+            "version": "v2.0.15"
+        },
+        {
+            "package": "symfony/http-foundation",
+            "version": "v2.0.15"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "phraseanet/php-sdk": 20
+    }
+}
