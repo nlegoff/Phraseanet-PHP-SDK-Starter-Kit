@@ -16,8 +16,8 @@
         {
             "package": "phraseanet/php-sdk",
             "version": "dev-master",
-            "source-reference": "ffce8040e62f410af99704b5065fe3f73d34363d",
-            "commit-date": "1341845769"
+            "source-reference": "4a00956634ef157d08d820e0aa1fd30c49817926",
+            "commit-date": "1341846676"
         },
         {
             "package": "symfony/event-dispatcher",
